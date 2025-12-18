@@ -7,57 +7,40 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-*NIM: 2341720005*
+</div>
+
+## 👤 Identitas Diri
+
+| Keterangan | Detail |
+|------------|--------|
+| **Nama** | Chiko Abilla Basya |
+| **Kelas** | TI 3G |
+| **NIM** | 2341720005 |
+| **No. Absen** | 09 |
 
 ---
-
-</div>
 
 ## 📚 Deskripsi
 
 Repository ini berisi koleksi praktikum, tugas, dan proyek-proyek Machine Learning yang dikerjakan selama Semester 5. Materi mencakup berbagai algoritma dan teknik machine learning mulai dari dasar hingga advanced.
 
-## 🎯 Tujuan Pembelajaran
+## 📖 Daftar Jobsheet
 
-- Memahami konsep fundamental Machine Learning
-- Implementasi algoritma ML dari scratch dan menggunakan library
-- Eksplorasi data dan preprocessing
-- Model evaluation dan optimization
-- Penerapan ML pada real-world problems
-
-## 🛠️ Tech Stack
-
-- **Language:** Python 3.8+
-- **Libraries:**
-  - NumPy
-  - Pandas
-  - Scikit-learn
-  - Matplotlib & Seaborn
-  - TensorFlow / PyTorch
-  - Jupyter Notebook
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-python --version  # Python 3.8 atau lebih baru
-```
-
-### Installation
-
-1. Clone repository
-```bash
-git clone https://github.com/yourusername/2341720005_ML_2025.git
-cd 2341720005_ML_2025
-```
-
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-3. Jalankan Jupyter Notebook
-```bash
-jupyter notebook
-```
+| Jobsheet | Materi | Link Pengerjaan |
+|----------|--------|-----------------|
+| Jobsheet 1 | Pengenalan Pembelajaran Mesin | [JS01](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS01) |
+| Jobsheet 2 | Pemahaman Data dan Pra-pengolahan Data | [JS02](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS02) |
+| Jobsheet 3 | Ekstraksi Fitur | [JS03](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS03) |
+| Jobsheet 4 | Klasterisasi | [JS04](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS04) |
+| Jobsheet 5 | Klasterisasi Hierarki | [JS05](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS05) |
+| Jobsheet 6 | Regresi | [JS06](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS06) |
+| Jobsheet 7 | ANN (Approximate Nearest Neighbors) | [JS07](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS07) |
+| Jobsheet 8 | UTS | [JS08](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS08) |
+| Jobsheet 9 | Klasifikasi | [JS09](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS09) |
+| Jobsheet 11 | Klasifikasi 2 | [JS11](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS11) |
+| Jobsheet 13 | Artificial Neural Network (ANN) dan Evaluasi Classifier | [JS13](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS13) |
+| Jobsheet 14 | Convolutional Neural Network (CNN) | [JS14](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS14) |
+| Jobsheet 15 | Pipeline Machine Learning & Deployment | [JS15](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/JS15) |
+| Kuis | EDA & Pra-pengolahan Data | [Kuis](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/KUIS) |
+| Tugas Kelompok | Clustering K-Means & DBSCAN | [Tugas Kelompok](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/KELOMPOK) |
+| Tugas PBL | Klasifikasi batik tulis vs batik cap dengan model CNN | [Tugas PBL](https://github.com/ChikoAbillaBasya/2341720005_ML_2025/tree/main/PBL_KELOMPOK1) |
